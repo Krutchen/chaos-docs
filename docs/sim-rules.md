@@ -7,7 +7,7 @@ nav_order: 7
 {: .no_toc }
 - Sim Rules
 
-Updated: 08/13/2020 - August 13th, 2020
+Updated: 08/26/2021 - August 26th, 2021
 
 Authors: Dread Hudson, Hadet Sonnenkern, & Sam Huntsman
 
@@ -71,7 +71,7 @@ Examples of this include:
 * No one should be Avatar Flying around the sim, and your avatar shouldn't be able to jump and fly from one end of the sim to the other.
 1. Dodgerolls must be a standard 10 meters or less, and may not be triggered mid air. 
 2. Grappling hooks may be used only IF they are of the reeling variety. Examples of this are the issued Chaos Indivisvm grappling hook and the DECO Hook. Bathooks are not allowed!
-3. Jetpacks & Jump packs - Depending on the day and OIC, these may be allowed, howver Jump and Jet packs MAY NOT refuel mid air.
+3. Jetpacks & Jump packs - Depending on the day and OIC, these may be allowed, however Jump and Jet packs MAY NOT refuel mid air.
     * Check with the OIC or provided display in the attacker spawn.
     * Limit the use of these to either 1 per 5 defenders or a matching number of packs in use for the defenders. This will also be enforced by a scripted system.
 
